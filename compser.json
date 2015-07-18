@@ -1,0 +1,23 @@
+{
+	"name": "masteringyii/chapter5-mymodule",
+	"description": "The mymodule module for Chapter 5 of the book Mastering Yii",
+	"license": "MIT",
+	"type": "drupal-module",
+	"keywords": [
+		"mastering yii",
+		"book",
+		"packt",
+		"packt publishing",
+		"chapter 5"
+	],
+	"authors": [
+		{
+			"name": "Charles R. Portwood II",
+			"homepage": "https://www.nasteringyii.com"
+		}
+	],
+	"support": {
+		"source": "https://github.com/masteringyii/chapter5-mymodule"
+	},
+	"homepage": "https://www.masteringyii.com"
+}
